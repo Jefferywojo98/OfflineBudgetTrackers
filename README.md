@@ -65,8 +65,7 @@ ___
 ## Screenshots
 ___
 
-![screencapture-jeffery-note-maker-herokuapp-2021-10-15-01_32_10](image\offlinebudgettracker.png)
-)
+![offlinebudgettracker](https://user-images.githubusercontent.com/87153472/148507450-8cc21480-9937-422c-85fd-1563992f645b.png)
 
 
 
