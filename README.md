@@ -7,10 +7,7 @@ By: Jeffery Wojciechowski
 ## User Story
 ___
 ```
-As you grow your small buisness owner
-You what you to be able to write and save your idea in your notes
-So that your thought is organize
-And keep track of the task you need to complete
+AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling
 ```
 
 
@@ -18,19 +15,7 @@ And keep track of the task you need to complete
 ___
 
 ```
-GIVEN a note-taking application
-WHEN you open the Note Taker
-THEN you are presented with a landing page with a link to a notes page
-WHEN you click on the link to the notes page
-THEN you are presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-WHEN you enter a new note title and the note’s text
-THEN a Save icon appears in the navigation at the top of the page
-WHEN you click on the Save icon
-THEN the new note that you have entered is saved and appears in the left-hand column with the other existing notes
-WHEN you click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column
-WHEN you click on the Write icon in the navigation at the top of the page
-THEN you are presented with empty fields to enter a new note title and the note’s text in the right-hand column
+GIVEN a user is on Budget App without an internet connection WHEN the user inputs a withdrawal or deposit THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 ```
 
 ## Table of Contents
