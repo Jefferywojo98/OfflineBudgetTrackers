@@ -59,7 +59,7 @@ ___
 ## Links
 ___
 - [GitHub Repository](https://github.com/Jefferywojo98/OfflineBudgetTrackers)
-- [Deployed Application](https://jeffery-note-maker.herokuapp.com/)
+- [Deployed Application](https://offlinebudgettrackers.herokuapp.com/)
 
 
 ## Screenshots
